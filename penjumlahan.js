@@ -11,3 +11,5 @@ console.log('first number + second number =');
 //perhitungan penjumlahan
 //convert ke number/int/float untuk melakukan penjumlahan angka
 console.log(Number(num1) + Number(num2));
+
+module.exports = { penjumlahan }
